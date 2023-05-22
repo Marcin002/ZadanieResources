@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ZadanieResoources</string>
+    <string name="tyl">Poprzedni</string>
+    <string name="przod">Nastepny</string>
+    <string name="napis">Zdjecie 1-3</string>
 </resources>
